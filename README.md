@@ -41,7 +41,7 @@ Add the following code to your readme. When pasting the code into your profile's
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="[![trophy](https://github-profile-trophy.vercel.app/?username=jhonyspark)](https://github.com/ryo-ma/github-profile-trophy)" />
 </p>
 
 ## Use theme
